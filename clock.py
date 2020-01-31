@@ -1,5 +1,6 @@
 import tkinter as tk
 import math
+print("Hello World")
 
 window = tk.Tk()
 window.title('BMI App')
